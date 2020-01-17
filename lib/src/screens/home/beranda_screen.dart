@@ -359,6 +359,7 @@ class BerandaView extends State<BerandaScreen> {
             );
           },
         ));
+
   }
 
   Widget _rowPromo(Promo promo) {
