@@ -51,6 +51,12 @@ flutter:
     - assets/images/food_3.jpg
     - assets/images/food_4.jpg
     - assets/images/food_5.jpg
+
+    - assets/images/promo_1.jpg
+    - assets/images/promo_2.jpg
+    - assets/images/promo_3.jpg
+    - assets/images/promo_4.jpg
+
   fonts:
     - family: NeoSans
       fonts:

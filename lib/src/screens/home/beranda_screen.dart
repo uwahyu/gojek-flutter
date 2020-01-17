@@ -74,6 +74,7 @@ class BerandaView extends State<BerandaScreen> {
                     children: <Widget>[
                       _buildGopayMenu(),
                       _buildGojekServicesMenu(),
+                      _buildPromo(),
                     ],
                   )),
               new Container(
