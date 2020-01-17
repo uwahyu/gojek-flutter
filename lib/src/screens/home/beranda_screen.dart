@@ -380,6 +380,7 @@ class BerandaView extends State<BerandaScreen> {
               promo.image,
               height: 172.0,
               width: double.infinity,
+
               fit: BoxFit.cover,
             ),
           ),
